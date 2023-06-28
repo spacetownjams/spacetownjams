@@ -21,3 +21,14 @@ Feel free to explore my repositories and follow along as I document my progress.
 
 # 
 
+## 🚧 Latest Projects
+
+COMING SOON
+<br />
+
+#
+
+### 📊 Stats
+💡
+
+![spacetownjam's GitHub stats](https://github-readme-stats.vercel.app/api?username=spacetownjams&theme=darcula&show_icons=true)
