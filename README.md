@@ -1,3 +1,4 @@
+![](https://github.com/spacetownjams/spacetownjams/blob/main/github-banner1.gif)
 # 🌌 spacetownjams
 
 **`Digital Craftsman (Artist/Developer/Writer)`**
